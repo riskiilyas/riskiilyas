@@ -6,6 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiilyas&label=Profile%20views&color=0e75b6&style=flat" alt="riskiilyas" /> </p>
 
 - 🌱 I’m currently learning **Android Development & Algorithm**
+- Checkout my Apps on Google Playstore!
+<a href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="200"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
