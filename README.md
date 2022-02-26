@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiilyas&label=Profile%20views&color=0e75b6&style=flat" alt="riskiilyas" /> </p>
 
 - 🌱 I’m currently learning **Android Development & Algorithm**
-- Checkout my Apps on Google Playstore!
+- Checkout my Apps that i have developed!
 <p>
 <a align="left" href="https://github.com/stars/riskiilyas/lists/android-app"><img src="https://github.com/riskiilyas/riskiilyas/blob/main/checkoutmyapps.png" width="300"/></a></p>
 
