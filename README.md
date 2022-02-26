@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development & Algorithm**
 - Checkout my Apps on Google Playstore!
-<a href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="200"/></a>
+<a align="left" href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="200"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
