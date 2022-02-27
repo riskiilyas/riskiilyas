@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development & Algorithm**
 - 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building
-- Checkout my Apps that i have developed!
+- 📱 Checkout my Apps that i have developed!
 <p>
 <a align="left" href="https://github.com/stars/riskiilyas/lists/android-apps"><img src="https://github.com/riskiilyas/riskiilyas/blob/main/checkoutmyapps2.png" width="300"/></a></p>
 
