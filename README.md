@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riski Ilyas</h1>
 <h3 align="center">Specializing In Android Development</h3>
 <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiilyas&label=Profile%20views&color=0e75b6&style=flat" alt="riskiilyas" /> </p>
 
 - 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building
 - 📱 Feel free to see my Apps that i have developed!
