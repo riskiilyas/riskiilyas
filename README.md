@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riski Ilyas</h1>
-<h3 align="center">Specializing In Mobile App Development</h3>
+<h3 align="center">Specializing In Android App Development</h3>
 <div align="left">
 
 - 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building
