@@ -7,7 +7,7 @@
 - 📱 Feel free to see my Apps that i have developed!
 <img align="right" alt="Coding" width="400" src="https://www.existus.com/assets/images/image-mbl-development.gif">
 <p>
-<a align="left" href="https://github.com/stars/riskiilyas/lists/mobile-apps"><img src="https://github.com/riskiilyas/riskiilyas/blob/main/checkoutmyapps2.png" width="250"/></a><a href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="250"/></a></p>
+<a align="left" href="https://github.com/stars/riskiilyas/lists/mobile-apps"><img src="https://github.com/riskiilyas/riskiilyas/blob/main/checkoutmyapps2.png" width="250"/></a><a href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="300"/></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
