@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Riski Ilyas</h1>
 <h3 align="center">Specializing In Mobile App Development</h3>
 <div align="left">
-- 🤝 I'm Open to Collaborate with Open Source Project!\n
-- 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building
-- 📱 Feel free to see my Apps that i have developed!
+- 🤝 I'm Open to Collaborate<br>
+- 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building<br>
+- 📱 Feel free to see my Apps that i have developed!<br>
 <img align="right" alt="Coding" width="400" src="https://www.existus.com/assets/images/image-mbl-development.gif">
 <p>
 <a align="left" href="https://github.com/stars/riskiilyas/lists/mobile-apps"><img src="https://github.com/riskiilyas/riskiilyas/blob/main/checkoutmyapps2.png" width="250"/></a><a href="https://play.google.com/store/apps/developer?id=Kee+Code"><img src="https://play.google.com/intl/id/badges/static/images/badges/en_badge_web_generic.png" width="250"/></a></p>
