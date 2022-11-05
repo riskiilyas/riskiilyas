@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riski Ilyas</h1>
 <h3 align="center">Specializing In Mobile App Development</h3>
 <div align="left">
-- 🤝 I'm Open to Collaborate<br>
+- 🤝 I'm Open to Provide a Service / Collaborate<br>
 - 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building<br>
 - 📱 Feel free to see my Apps that i have developed!<br>
 <img align="right" alt="Coding" width="400" src="https://www.existus.com/assets/images/image-mbl-development.gif">
