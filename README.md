@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://riskiilyas.com)
 <h1 align="center">Hi 👋, I'm Riski Ilyas</h1>
-<h3 align="center">Specializing In Mobile App Development</h3>
+<h3 align="center">Specialized In Mobile App Development</h3>
 <div align="left">
 - 🤝 I'm Open to Provide a Service / Collaborate<br>
 - 🛠️ I'm currently building some apps. <a href="https://github.com/stars/riskiilyas/lists/in-development-apps">Click Here</a> to see the list of apps that i'm building<br>
