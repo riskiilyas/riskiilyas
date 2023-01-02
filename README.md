@@ -10,9 +10,9 @@
 </p>
 
 <h3 align="left">Tech Stacks:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Android-white?style=for-the-badge&logoColor=lime&logo=android"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Frontend%20Web-black?style=for-the-badge&logoColor=lime&logo=web"/>
 </p>
   </div>
