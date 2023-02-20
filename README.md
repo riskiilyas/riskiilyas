@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Frontend%20Web-black?style=for-the-badge&logoColor=lime&logo=web"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/>
 </p>
   </div>
   <br>
