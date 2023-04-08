@@ -10,7 +10,7 @@
 
 <h3 align="center">Anonymous Message: </h3>
 <p align="center">
-<a href="https://www.riskiilyas.com/anonymous-chat">
+<a href="https://riskiilyas.my.id/anonymous-chat">
   <img src="https://user-images.githubusercontent.com/71499142/220818854-1dc74f27-a6ba-4548-abcb-255354648af3.png" alt="riskiilyas03" height="30" width="40" />
 </a>
 </p>
