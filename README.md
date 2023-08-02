@@ -1,4 +1,4 @@
-<h1 align="center">Mobile & Backend Developer</h1>
+<h1 align="center">Fullstack Mobile Developer</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
