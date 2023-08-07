@@ -12,8 +12,20 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-spring-green?style=for-the-badge&logoColor=white&logo=spring"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/>
+<!--   <img src="https://custom-icon-badges.demolab.com/badge/-laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/> -->
   <img src="https://custom-icon-badges.demolab.com/badge/-nodejs-black?style=for-the-badge&logoColor=white&logo=nodejs"/>
+</p>
+  </div>
+  <br>
+  <h3 align="center">Programming Languange:</h3>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Kotlin-navy?style=for-the-badge&logoColor=white&logo=kotlin"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Dart-blue?style=for-the-badge&logoColor=white&logo=dart"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-yellow?style=for-the-badge&logoColor=white&logo=javascript"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Python-darkblue?style=for-the-badge&logoColor=white&logo=python"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-C-grey?style=for-the-badge&logoColor=white&logo=c"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-C++-maroon?style=for-the-badge&logoColor=white&logo=cpp"/>
 </p>
   </div>
   <br>
