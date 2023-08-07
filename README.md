@@ -17,7 +17,7 @@
 </p>
   </div>
   <br>
-  <h3 align="center">Programming Languange:</h3>
+  <h3 align="center">Programming Languages:</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Kotlin-navy?style=for-the-badge&logoColor=white&logo=kotlin"/>
