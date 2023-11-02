@@ -10,10 +10,10 @@
 </p>
 <h3 align="center">Tech Stacks:</h3>
 <p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Nodejs-black?style=for-the-badge&logoColor=white&logo=nodejs"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-React Native-black?style=for-the-badge&logoColor=white&logo=react"/>
 </p>
   </div>
   <h3 align="center">Programming Languages:</h3>
