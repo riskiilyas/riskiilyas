@@ -3,7 +3,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/riski-ilyas/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riski-ilyas/" height="30" width="40" /></a>  
-<a href="https://instagram.com/riski.ilyas03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riski.ilyas03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/riskiilyas03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riskiilyas03" height="30" width="40" /></a>
 <a href="https://www.dicoding.com/users/riskiilyas03" target="blank"><img src="https://user-images.githubusercontent.com/71499142/200818614-8ef3a4ea-708d-49d4-9ad4-8091f3dce8ea.png" alt="riskiilyas03" height="30" width="30" /></a>
   <a href="https://steamcommunity.com/id/riskee64/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png?20151111014216" alt="riskiilyas03" height="30" width="30" /></a>
