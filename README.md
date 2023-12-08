@@ -25,6 +25,11 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-C-grey?style=for-the-badge&logoColor=white&logo=c"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C++-maroon?style=for-the-badge&logoColor=white&logo=cpp"/>
 </p>
+<h3 align="center">Operating Systems:</h3>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Linux-black?style=for-the-badge&logo=ubuntu"/>
+</p>
   </div>
 <!--   <br>
 <p align="center"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiilyas&langs_count=8&theme=radical&show_icons=true&locale=en&layout=compact" alt="riskiilyas" /> 
