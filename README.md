@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack Mobile Developer</h1>
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/riskiilyas/riskiilyas/assets/71499142/80abf3f0-d591-423c-931f-acd9f7cf4e53)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
