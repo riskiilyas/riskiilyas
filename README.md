@@ -9,7 +9,8 @@
 </p>
 <h3 align="center">Tech Stacks:</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Laravel-red?style=for-the-badge&logoColor=white&logo=laravel"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-wordpress-black?style=for-the-badge&logoColor=white&logo=wordpress"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-golang-white?style=for-the-badge&logoColor=cyan&logo=golang"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
 <!--   <img src="https://custom-icon-badges.demolab.com/badge/-React Native-black?style=for-the-badge&logoColor=white&logo=react"/>
@@ -20,7 +21,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Kotlin-purple?style=for-the-badge&logoColor=white&logo=kotlin"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Dart-blue?style=for-the-badge&logoColor=white&logo=dart"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Go-white?style=for-the-badge&logoColor=cyan&logo=go"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Python-darkblue?style=for-the-badge&logoColor=white&logo=python"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C-grey?style=for-the-badge&logoColor=white&logo=c"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C++-maroon?style=for-the-badge&logoColor=white&logo=cpp"/>
