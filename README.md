@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-wordpress-black?style=for-the-badge&logoColor=white&logo=wordpress"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-golang-white?style=for-the-badge&logoColor=cyan&logo=golang"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/-googleCloud-red?style=for-the-badge&logoColor=white&logo=googleCloud"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
 <!--   <img src="https://custom-icon-badges.demolab.com/badge/-React Native-black?style=for-the-badge&logoColor=white&logo=react"/>
