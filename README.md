@@ -23,7 +23,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Kotlin-purple?style=for-the-badge&logoColor=white&logo=kotlin"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Dart-blue?style=for-the-badge&logoColor=white&logo=dart"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Go-black?style=for-the-badge&logoColor=cyan&logo=go"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Python-darkblue?style=for-the-badge&logoColor=white&logo=python"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-PHP-darkblue?style=for-the-badge&logoColor=white&logo=php"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C-grey?style=for-the-badge&logoColor=white&logo=c"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C++-maroon?style=for-the-badge&logoColor=white&logo=cpp"/>
 </p>
