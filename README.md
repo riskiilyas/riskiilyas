@@ -10,10 +10,10 @@
 <h3 align="center">Tech Stacks:</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-wordpress-black?style=for-the-badge&logoColor=white&logo=wordpress"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-golang-white?style=for-the-badge&logoColor=cyan&logo=golang"/>
-      <img src="https://custom-icon-badges.demolab.com/badge/-googleCloud-red?style=for-the-badge&logoColor=white&logo=googleCloud"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-blue?style=for-the-badge&logo=untitled&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Android-darkgreen?style=for-the-badge&logoColor=white&logo=android"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-golang-black?style=for-the-badge&logoColor=cyan&logo=golang"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/-GCP-black?style=for-the-badge&logoColor=red&logo=googleCloud"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-black?style=for-the-badge&logo=untitled&logoColor=blue"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Android-black?style=for-the-badge&logoColor=darkgreen&logo=android"/>
 <!--   <img src="https://custom-icon-badges.demolab.com/badge/-React Native-black?style=for-the-badge&logoColor=white&logo=react"/>
 </p> -->
   </div>
