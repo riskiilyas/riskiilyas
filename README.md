@@ -9,14 +9,14 @@
 </p>
 <h3 align="center">Tech Stacks:</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-wordpress-black?style=for-the-badge&logoColor=white&logo=wordpress"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-golang-black?style=for-the-badge&logoColor=cyan&logo=golang"/>
-      <img src="https://custom-icon-badges.demolab.com/badge/-GCP-black?style=for-the-badge&logoColor=red&logo=googleCloud"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Laravel-black?style=for-the-badge&logoColor=red&logo=laravel"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Flutter-black?style=for-the-badge&logo=untitled&logoColor=blue"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android-black?style=for-the-badge&logoColor=darkgreen&logo=android"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-IOS-black?style=for-the-badge&logoColor=white&logo=apple"/>
 <!--   <img src="https://custom-icon-badges.demolab.com/badge/-React Native-black?style=for-the-badge&logoColor=white&logo=react"/>
 </p> -->
   </div>
+  <!--
   <h3 align="center">Programming Languages:</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,10 +27,12 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-C-grey?style=for-the-badge&logoColor=white&logo=c"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-C++-maroon?style=for-the-badge&logoColor=white&logo=cpp"/>
 </p>
+ -->
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Windows-black?style=for-the-badge&logo=windows"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Linux-black?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Mac-black?style=for-the-badge&logo=apple"/>
 </p>
   </div>
 <!--   <br>
