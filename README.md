@@ -22,7 +22,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-FIREBASE-black?style=for-the-badge&logo=firebase"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-WORDPRESS-black?style=for-the-badge&logo=wordpress"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-CPANEL-black?style=for-the-badge&logo=cpanel"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-JAVA-black?style=for-the-badge&logo=java"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-JAVA-black?style=for-the-badge&logoColor=white&logo=java"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-KOTLIN-black?style=for-the-badge&logo=kotlin"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-DART-black?style=for-the-badge&logo=dart"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-SWIFT-black?style=for-the-badge&logo=swift"/>
