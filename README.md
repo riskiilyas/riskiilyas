@@ -15,20 +15,21 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-IOS-black?style=for-the-badge&logoColor=white&logo=apple"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-REACT-black?style=for-the-badge&logoColor=blue&logo=react"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-NEXT JS-black?style=for-the-badge&logoColor=white&logo=next.js"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-EXPRESS JS-black?style=for-the-badge&logoColor=yellow&logo=expressjs"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-EXPRESS JS-black?style=for-the-badge&logoColor=yellow&logo=expressjs"/>  
+  <img src="https://custom-icon-badges.demolab.com/badge/-NODE JS-black?style=for-the-badge&logoColor=green&logo=nodejs"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-MYSQL-black?style=for-the-badge&logo=mysql"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-POSTGRESQL-black?style=for-the-badge&logo=postgresql"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-TAILWIND-black?style=for-the-badge&logo=tailwind"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-FIREBASE-black?style=for-the-badge&logo=firebase"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-WORDPRESS-black?style=for-the-badge&logo=wordpress"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-CPANEL-black?style=for-the-badge&logo=cpanel"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-WORDPRESS-black?style=for-the-badge&logo=wordpress"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-CPANEL-black?style=for-the-badge&logo=cpanel"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-JAVA-black?style=for-the-badge&logoColor=white&logo=java"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-KOTLIN-black?style=for-the-badge&logo=kotlin"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-DART-black?style=for-the-badge&logo=dart"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-SWIFT-black?style=for-the-badge&logo=swift"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-SWIFT-black?style=for-the-badge&logo=swift"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-PHP-black?style=for-the-badge&logo=php"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-TYPESCRIPT-black?style=for-the-badge&logo=typescript"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-HTML-black?style=for-the-badge&logo=html"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-HTML-black?style=for-the-badge&logo=html"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-CSS-black?style=for-the-badge&logo=css"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-JAVASCRIPT-black?style=for-the-badge&logo=js"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Android Studio-black?style=for-the-badge&logo=androidstudio"/>
