@@ -1,5 +1,11 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/riskiilyas/riskiilyas/assets/71499142/541917bd-1340-451e-bbd2-e401cc1130b5)
+<div align="center" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;">
 
+![](https://komarev.com/ghpvc/?username=riskiilyas&style=flat-square)
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://medium.com/@riskiilyas03" target="blank"><img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="https://medium.com/@riskiilyas03" height="30"/></a>  
