@@ -67,10 +67,13 @@
 <!--   <br>
 <p align="center"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiilyas&langs_count=8&theme=radical&show_icons=true&locale=en&layout=compact" alt="riskiilyas" /> 
 <img align="center" height="180"src="https://github-readme-stats.vercel.app/api?username=riskiilyas&theme=radical"/></p><p></p> -->
-<div align="center" style="display: block; 
+
+<div align="center" style="display: flex; 
+           justify-content: center;
+           align-items: stretch;
            margin-left: auto;
            margin-right: auto;
-           width: 30%;">
-           
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+           gap: 10px;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riskiilyas&hide=contribs,issues&theme=radical" alt="Riski's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical" alt="Top Langs" />
 </div>
