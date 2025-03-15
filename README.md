@@ -74,6 +74,6 @@
            margin-left: auto;
            margin-right: auto;
            gap: 10px;">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riskiilyas&hide=contribs,issues&theme=radical" alt="Riski's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical" alt="Top Langs" />
 </div>
