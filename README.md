@@ -66,10 +66,12 @@
 
 <div align="center" style="display: flex; 
            justify-content: center;
-           align-items: stretch;
-           margin-left: auto;
-           margin-right: auto;
-           gap: 10px;">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical" alt="Top Langs" />
+           align-items: flex-start;
+           align-content: flex-start;
+           flex-wrap: wrap;
+           gap: 10%;
+           width: 100%;">
+  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="vertical-align: top;"/>
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical" alt="Top Langs" style="vertical-align: top;"/>
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiilyas&theme=radical&hide_border=false" alt="GitHub Streak" style="vertical-align: top;"/>
 </div>
