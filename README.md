@@ -4,10 +4,12 @@
   <tr style="border: none;">
     <td width="70%" style="border: none;">
 <p align="left">
-  I enjoy working as a <b>software engineer</b> focused on <i>mobile and web development</i>. With experience in multiple frameworks and languages, I find satisfaction in building <code>innovative solutions</code> and exploring new technologies. Currently working on creating robust applications with <strong>Flutter</strong>, <strong>React</strong>, and <strong>Laravel</strong>.
+  👨‍💻 I enjoy working as a <b>software engineer</b> focused on <i>mobile and web development</i>. 🌐 With experience in multiple frameworks and languages, I find satisfaction in building innovative solutions and exploring new technologies. 📈 Currently working on creating robust applications with <strong>Flutter</strong> 📱, <strong>React</strong> ⚛️, and <strong>Laravel</strong> 🔧.
 </p>
-         <div align="left">
+ <div align="left">
         <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge" alt="Profile views"/>
+        <img src="https://img.shields.io/badge/Coding%20Since-2020 🔥-red?style=for-the-badge" alt="Coding Since"/>
+        <img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge" alt="Work Status"/>
       </div>
     </td>
     <td width="30%" style="border: none;">
@@ -55,10 +57,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Android Studio-black?style=for-the-badge&logo=androidstudio"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-VSCODE-black?style=for-the-badge&logoColor=blue&logo=visualstudiocode"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-INTELLIJ-black?style=for-the-badge&logo=intellij"/>
-</p>
-
-<h3 align="center">Operating Systems:</h3>
-<p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-Windows-black?style=for-the-badge&logo=windows"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Linux-black?style=for-the-badge&logo=ubuntu"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-Mac-black?style=for-the-badge&logo=apple"/>
