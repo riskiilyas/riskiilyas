@@ -1,4 +1,4 @@
-![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/riskiilyas/riskiilyas/assets/71499142/541917bd-1340-451e-bbd2-e401cc1130b5)
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/ae8ed16a-9569-41a7-9aea-ca310ffdb6e0)
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
