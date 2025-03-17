@@ -4,7 +4,8 @@
            margin-right: auto;
            width: 30%;">
 
-![](https://komarev.com/ghpvc/?username=riskiilyas&style=flat-square)
+![](https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge)
+
 </div>
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="display: flex; 
