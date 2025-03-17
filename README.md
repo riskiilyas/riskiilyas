@@ -6,10 +6,13 @@
 <p align="left">
   👨‍💻 I enjoy working as a <b>software engineer</b> focused on <i>mobile and web development</i>. 🌐 With experience in multiple frameworks and languages, I find satisfaction in building innovative solutions and exploring new technologies. 📈 Currently working on creating robust applications with <strong>Flutter</strong> 📱, <strong>React</strong> ⚛️, and <strong>Laravel</strong> 🔧.
 </p>
- <div align="left">
-        <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge" alt="Profile views"/>
-        <img src="https://img.shields.io/badge/Coding%20Since-2020 🔥-brightGreen?style=for-the-badge" alt="Coding Since"/>
-      </div>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Coding%20Since-2020 🔥-brightGreen?style=for-the-badge" alt="Coding Since"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/--black?style=for-the-badge&logo=windows"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/--black?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/--black?style=for-the-badge&logo=apple"/>
+</div>
     </td>
     <td width="30%" style="border: none;">
       <h3 align="center">Connect with me:</h3>
@@ -56,9 +59,6 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Android Studio-black?style=for-the-badge&logo=androidstudio"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-VSCODE-black?style=for-the-badge&logoColor=blue&logo=visualstudiocode"/>
   <img src="https://custom-icon-badges.demolab.com/badge/-INTELLIJ-black?style=for-the-badge&logo=intellij"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Windows-black?style=for-the-badge&logo=windows"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Linux-black?style=for-the-badge&logo=ubuntu"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Mac-black?style=for-the-badge&logo=apple"/>
 </p>
 
 <div align="center" style="display: flex; 
