@@ -8,8 +8,7 @@
 </p>
  <div align="left">
         <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge" alt="Profile views"/>
-        <img src="https://img.shields.io/badge/Coding%20Since-2020 🔥-red?style=for-the-badge" alt="Coding Since"/>
-        <img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge" alt="Work Status"/>
+        <img src="https://img.shields.io/badge/Coding%20Since-2020 🔥-brightGreen?style=for-the-badge" alt="Coding Since"/>
       </div>
     </td>
     <td width="30%" style="border: none;">
