@@ -3,12 +3,12 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
-      <div align="left">
+<p align="left">
+  I enjoy working as a <b>software engineer</b> focused on <i>mobile and web development</i>. With experience in multiple frameworks and languages, I find satisfaction in building <code>innovative solutions</code> and exploring new technologies. Currently working on creating robust applications with <strong>Flutter</strong>, <strong>React</strong>, and <strong>Laravel</strong>.
+</p>
+         <div align="left">
         <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge" alt="Profile views"/>
       </div>
-      <p align="left">
-        I'm a passionate developer skilled in mobile and web development. With experience in multiple frameworks and languages, I enjoy building innovative solutions and exploring new technologies. Currently focused on creating robust applications with Flutter, React, and Laravel.
-      </p>
     </td>
     <td width="30%" style="border: none;">
       <h3 align="center">Connect with me:</h3>
