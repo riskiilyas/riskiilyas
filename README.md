@@ -1,8 +1,3 @@
-<a href="https://riskidev.my.id" target="_blank">
-    <img width=100% src="https://github.com/user-attachments/assets/ae8ed16a-9569-41a7-9aea-ca310ffdb6e0" alt="Navy Blue Geometric Technology LinkedIn Banner" width="600">
-</a>
-
-
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td width="70%" style="border: none;">
