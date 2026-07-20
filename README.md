@@ -67,6 +67,5 @@
            gap: 10%;
            width: 100%;">
   <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="vertical-align: top;"/>
-  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&theme=radical" alt="Top Langs" style="vertical-align: top;"/>
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiilyas&theme=radical&hide_border=false" alt="GitHub Streak" style="vertical-align: top;"/>
 </div>
