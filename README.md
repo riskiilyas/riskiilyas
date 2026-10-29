@@ -5,84 +5,18 @@
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/hero.gif" width="100%" alt="RISKI ILYAS // SOFTWARE ENGINEER"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/riskiilyas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=%3E+booting+profile.sys+...+OK;%3E+Flutter+%E2%80%A2+React+%E2%80%A2+Laravel+%E2%80%94+loaded;%3E+mobile+%2B+web+%2B+backend+%E2%80%94+full+stack+mode+ON;%3E+shipping+code+since+2020+%E2%9A%A1;%3E+always+exploring+new+tech_" alt="typing"/>
-  </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=riskiilyas&style=for-the-badge&color=00f0ff&labelColor=0a0a0f&label=VISITORS" alt="visitors"/>
   <img src="https://img.shields.io/badge/CODING%20SINCE-2020-ff00e5?style=for-the-badge&labelColor=0a0a0f" alt="since 2020"/>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0a0a0f" alt="online"/>
   <img src="https://img.shields.io/badge/FOCUS-MOBILE%20%7C%20WEB-00f0ff?style=for-the-badge&labelColor=0a0a0f" alt="focus"/>
 </div>
 
-<img src="assets/divider.gif" width="100%" alt=""/>
-
-<!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="60%" valign="top">
-
-```bash
-┌──(riski㉿cyberdeck)-[~]
-└─$ whoami
-```
-
-```yaml
-name      : Riski Ilyas
-role      : Software Engineer
-domain    : Mobile & Web Development
-primary   : [ Flutter, React, Laravel ]
-also      : [ Kotlin, Swift, Next.js, Node, TypeScript ]
-os        : [ Windows, Ubuntu, macOS ]
-since     : 2020
-mission   : turn ideas into robust, production-ready apps
-            and keep exploring what is next
-status    : 200 OK ✓
-```
-
-```bash
-┌──(riski㉿cyberdeck)-[~]
-└─$ cat motto.txt
-"Build things that actually work. Then make them beautiful."
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<h3>⟨ UPLINK ⟩</h3>
-
-<a href="https://www.linkedin.com/in/riski-ilyas/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-riski--ilyas-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0a0f" alt="LinkedIn"/>
-</a>
-<br/><br/>
-<a href="https://medium.com/@riskiilyas03" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-%40riskiilyas03-ff00e5?style=for-the-badge&logo=medium&logoColor=ff00e5&labelColor=0a0a0f" alt="Medium"/>
-</a>
-<br/><br/>
-<a href="mailto:riskiilyas03@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-riskiilyas03-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0a0a0f" alt="Gmail"/>
-</a>
-<br/><br/>
-<a href="https://github.com/riskiilyas" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-riskiilyas-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0a0f" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://custom-icon-badges.demolab.com/badge/--0a0a0f?style=for-the-badge&logo=windows&logoColor=00f0ff" alt="Windows"/>
-<img src="https://custom-icon-badges.demolab.com/badge/--0a0a0f?style=for-the-badge&logo=ubuntu&logoColor=ff00e5" alt="Ubuntu"/>
-<img src="https://custom-icon-badges.demolab.com/badge/--0a0a0f?style=for-the-badge&logo=apple&logoColor=ffffff" alt="macOS"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/riski-ilyas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://medium.com/@riskiilyas03" target="_blank"><img src="https://img.shields.io/badge/Medium-0a0a0f?style=for-the-badge&logo=medium&logoColor=ff00e5" alt="Medium"/></a>&nbsp;
+  <a href="mailto:riskiilyas03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Gmail"/></a>&nbsp;
+  <a href="https://github.com/riskiilyas" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+</div>
 
 <img src="assets/divider.gif" width="100%" alt=""/>
 

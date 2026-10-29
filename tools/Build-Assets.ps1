@@ -85,7 +85,7 @@ $log = Tool $effect script (Join-Path $out 'animate.jsx') --empty --save-as (Fwd
 if (-not (Test-Path $project)) { throw "EffectCraft built nothing`n$log" }
 Write-Host "  EffectCraft: $($log.Trim())"
 
-$comps = if ($Comp) { $Comp } else { @('hero', 'stack-orbit', 'divider') }
+$comps = if ($Comp) { $Comp } else { @('stack-orbit', 'divider') }   # hero is built only on request (-Comp hero): the README no longer shows it
 $fps = Get-Content (Join-Path $out 'fps.json') -Raw | ConvertFrom-Json
 if (-not (Test-Path $assets)) { New-Item -ItemType Directory -Path $assets | Out-Null }
 foreach ($c in $comps) {
