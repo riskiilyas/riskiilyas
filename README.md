@@ -22,8 +22,6 @@
 
 <!-- ═══════════════════════════════ TECH ARSENAL ═══════════════════════════════ -->
 
-<h2 align="center">⟨ TECH ARSENAL ⟩</h2>
-
 <div align="center">
   <img src="assets/stack-orbit.gif" width="100%" alt="The stack in orbit: Flutter, React, Laravel at the core; Dart, Kotlin, Swift, Next.js, TypeScript, Node, PHP, Java; JS, HTML, CSS, Tailwind, Express, Firebase, MySQL, PostgreSQL, Git, Docker, Figma, WordPress"/>
 </div>
