@@ -157,24 +157,24 @@ status    : 200 OK ✓
 <h2 align="center">⟨ SYSTEM TELEMETRY ⟩</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riskiilyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00e5&text_color=c9d1d9&ring_color=00ff9c" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riskiilyas&hide_border=true&background=0a0a0f&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff00e5&dates=6e7681&stroke=1f1f2e" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00e5&text_color=c9d1d9&ring_color=00ff9c" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=riskiilyas&hide_border=true&background=0a0a0f&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff00e5&dates=6e7681&stroke=1f1f2e" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=c9d1d9" alt="Top languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riskiilyas&bg_color=0a0a0f&color=00f0ff&line=ff00e5&point=ffffff&area=true&area_color=00f0ff&hide_border=true&custom_title=%E2%9F%A8%20COMMIT%20SIGNAL%20%E2%9F%A9" width="100%" alt="Contribution graph"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&langs_count=8&hide=jupyter%20notebook,tex&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=c9d1d9" alt="Top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riskiilyas&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskiilyas&theme=2077" width="100%" alt="Profile details and contributions in the last year"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=riskiilyas&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 </div>
 
 <img src="assets/divider.gif" width="100%" alt=""/>
