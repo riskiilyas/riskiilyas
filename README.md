@@ -88,26 +88,34 @@
 
 <h2 align="center">⟨ SYSTEM TELEMETRY ⟩</h2>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00e5&text_color=c9d1d9&ring_color=00ff9c" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=riskiilyas&hide_border=true&background=0a0a0f&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff00e5&dates=6e7681&stroke=1f1f2e" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&langs_count=8&hide=jupyter%20notebook,tex&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=c9d1d9" alt="Top languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskiilyas&theme=2077" width="100%" alt="Profile details and contributions in the last year"/>
-</div>
-
-<br/>
-
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="6" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riskiilyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00e5&text_color=c9d1d9&ring_color=00ff9c" alt="GitHub stats"/>
+</td>
+<td width="50%" align="center" valign="top">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=riskiilyas&hide_border=true&background=0a0a0f&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff00e5&dates=6e7681&stroke=1f1f2e" alt="GitHub streak"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riskiilyas&layout=compact&langs_count=8&hide=jupyter%20notebook,tex&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=c9d1d9" alt="Top languages by code"/>
+</td>
+<td width="50%" align="center" valign="top">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riskiilyas&theme=2077" alt="Top languages by commit"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riskiilyas&theme=2077" alt="Profile details and contributions in the last year"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
   <img src="https://github-trophies.vercel.app/?username=riskiilyas&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</div>
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.gif" width="100%" alt=""/>
 
